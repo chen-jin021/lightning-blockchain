@@ -15,7 +15,7 @@ Lightning is a scaling protocol for Bitcoin, and we've done our best to imitate 
 5. **Server**
    - Two servers. First, **SegWit** protocol on the node's server. Then the lightning protocol on the lightning node's server.
 
-# Code References for Various Cryptocurrency Components
+# Code References for Cryptocurrency Components
 
 Below is a list of various components of the cryptocurrency ecosystem, along with the corresponding code references:
 
